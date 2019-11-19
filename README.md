@@ -1,1 +1,1 @@
-# Newletter Mailchimp + Node.js Express
+# Newsletter Mailchimp + Node.js Express
